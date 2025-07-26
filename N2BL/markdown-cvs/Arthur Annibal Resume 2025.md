@@ -1,13 +1,13 @@
 # Arthur Annibal Tavares
  - 💼 `ROLE :` **Interface Engineer** (🔝), Software Developer (🆗), Programmer (🆗)
- - 📅 `SINCE:` **29 years old** (27 August 1994, 09:30 AM)
+ - 📅 `SINCE:` **31 years old** (27 August 1994, 09:30 AM)
  - 📞 `PHONE:` +55 **(11) 98404-9542** (SMS, Call, WhatsApp, Telegram)
  - 📧 `EMAIL:` **arthur.annibal@gmail.com**
  - 🏠 `HOUSE:` 05706-280 - **Paraíso do Morumbi**, São Paulo - SP, Brazil
 
  ## About me:
   - I am specialized in creating **intuitive**, **adaptable** and **robust** interfaces;
-  - I'm a Software Engineer with **11 years** of experience in developing, architecturing, engineering, designing, prototyping and testing all kinds of **applications**;
+  - I'm a Software Engineer with **12 years** of experience in developing, architecturing, engineering, designing, prototyping and testing all kinds of **applications**;
   - I'm also experienced with Visual, Print, Motion and Graphical Design, or just **Multimedia Design**.
   - **Big Data** Visualization and **Data Viz** enthusiast;
   - **Collaborative and supportive** team player, driven to foster innovation, creativity, and **high productivity** **amongst colleagues.
