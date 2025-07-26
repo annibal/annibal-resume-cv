@@ -1,0 +1,134 @@
+/* Add your custom CSS here */
+body {
+font-family: 'Montserrat', sans-serif;
+line-height: 1.6;
+padding: 20px;
+margin: 0;
+}
+
+* { text-wrap: pretty; }
+
+a, a * {
+text-decoration: none;
+color: blue !important;
+}
+
+a code {
+ background: #00886611 !important;
+min-width: 2rem;
+display: inline-block;
+text-align: center;
+}
+
+blockquote {
+opacity: 1;
+color: #2f3b35 !important;
+background: #00FF8811;
+border: none !important;
+padding: 0.5rem 1em 1rem 1em !important;
+width: calc(100% - 2em);
+}
+blockquote p {
+  color: inherit;
+  opacity: 1;
+}
+blockquote p:last-child { margin-bottom: 0;}
+blockquote p:first-child { margin-top: 0; }
+
+
+pre {
+background: #2d2d2d;
+border-radius: 4px;
+margin: 0.5em 0;
+}
+code {
+font-family: 'Fira Code', Consolas, Monaco, monospace;
+}
+:not(pre) > code {
+background: #f0f0f0;
+padding: 2px 4px;
+border-radius: 3px;
+color: #3e6351;
+margin-inline-end: 0.25pc;
+}
+img { max-width: 100%; }
+table {
+border-collapse: collapse;
+width: 100%;
+margin: 1em 0;
+}
+th, td {
+border: 1px solid #ddd;
+padding: 8px;
+}
+th { background-color: #f4f4f4; }
+blockquote {
+border-left: 4px solid #ddd;
+padding-left: 1em;
+margin-left: 0;
+color: #666;
+}
+
+h1 {
+font-size: 2em;
+color: #005533CC;
+border-bottom: 2px solid #eee;
+padding-bottom: 0.5rem;
+padding-top: 0rem;
+line-height: 1.2;
+margin: 1.5rem 0 1.5rem 0;
+}
+
+h1:not(:first-child) {
+padding-top: 2rem;
+}
+
+h2 {
+font-size: 1.5em;
+color: #005533BB;
+margin: 1.5rem 0;
+}
+
+h3 {
+font-size: 1.3em;
+color: #455a64;
+}
+
+li {
+margin: 0.2rem 0;
+}
+
+strong {
+opacity: 0.7;
+}
+
+p {
+line-height: 1.4;  letter-spacing: 0.2px
+}
+                
+h1:nth-of-type(2) ~ p {margin-inline-start:  2rem}
+h1:nth-of-type(2) ~ h2 {
+  margin-inline-start:  1rem;
+  border-top: 2px solid #e0efe8;
+  padding-top: 0.7rem;
+  margin-top: 1.5rem;
+}
+h1:nth-of-type(2) ~ h3 {margin-inline-start:  2rem; margin-bottom: 1rem; line-height: 1.2;}
+h1:nth-of-type(2) ~ h3 + p,
+h1:nth-of-type(2) ~ h3 + p + p,
+h1:nth-of-type(2) ~ h3 + p + p + p,
+h1:nth-of-type(2) ~ h3 + p + p + p + p,
+h1:nth-of-type(2) ~ h3 + p + p + p + p + p {
+  margin-inline-start:  2.3rem;
+  width: calc(100vw - 40px - 7rem);
+  border-inline-start: 5px solid #eee;
+  padding-inline-start: 1rem; 
+  padding-top: 0.7rem;
+  padding-bottom: 1.5rem;
+  margin-top: -0.5rem;
+  margin-bottom: 0rem;
+}
+h1:nth-of-type(2) ~ hr {}
+h1:nth-of-type(2) ~ blockquote {}
+
+
