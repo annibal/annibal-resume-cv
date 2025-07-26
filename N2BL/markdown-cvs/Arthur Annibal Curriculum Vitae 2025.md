@@ -1,9 +1,9 @@
 # Arthur Annibal Tavares
- - 💼 `CARGO :` **Engenheiro de Interface** (🔝), Desenvolvedor de Software (🆗), Programador (🆗)
+ - 💼 `CARGO :` **Arquiteto de Interface** (🔝), Desenvolvedor de Software (🆗), Programador (🆗)
  - 📅 `IDADE:` **31 anos** (27 de agosto de 1994, 09:30 AM)
- - 📞 `TELEFONE:` +55 **(11) 98404-9542** (SMS, Ligação, WhatsApp, Telegram)
+ - 📞 `TELEFONE:` +55 **(11) 98404-9542** (SMS, Ligação, [WhatsApp](https://api.whatsapp.com/send?phone=5511984049542&text=Ol%C3%A1%2C%20achei%20seu%20curr%C3%ADculo%20incr%C3%ADvel%20e%20gostaria%20de%20te%20contratar.%20Quando%20voc%C3%AA%20pode%20come%C3%A7ar%3F), Telegram)
  - 📧 `EMAIL:` **arthur.annibal@gmail.com**
- - 🏠 `ENDEREÇO:` 05706-280 - **Paraíso do Morumbi**, São Paulo - SP, Brasil
+ - 🏠 `ENDEREÇO:` 05706-280 - **Paraíso do Morumbi**, São Paulo - SP, Brasil. [ver no maps](https://maps.app.goo.gl/PURjqFNHjKkHbRtFA)
 
  ## Sobre mim:
   - Sou especializado na criação de interfaces **intuitivas**, **adaptáveis** e **robustas**;
