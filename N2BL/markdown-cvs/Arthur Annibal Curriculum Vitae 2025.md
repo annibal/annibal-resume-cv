@@ -107,7 +107,7 @@
 
 
  ## 🏢 Digaí
-  💼 `Cargo:` **Arquiteto Front-end**
+  💼 `Cargo:` **Arquiteto Front-end**  
   📆 `Duração:` Jan 2025 - Mar 2025  
   📋 `Contrato:` PJ  
   💻 `Tecnologias:` React, Tailwind, ??
@@ -130,7 +130,7 @@
 
 
  ## 🏢 Colmeia
-  💼 `Cargo:` **Desenvolvedor Fullstack Especialista**
+  💼 `Cargo:` **Desenvolvedor Fullstack Especialista**  
   📆 `Duração:` Set 2024 - Nov 2024  
   📋 `Contrato:` PJ  
   💻 `Tecnologias:` Angular, Typescript
@@ -152,7 +152,7 @@
 
 
  ## 🏢 Siemens Healthineers
-  💼 `Cargo:` **Front End Especialista**
+  💼 `Cargo:` **Front End Especialista**  
   📆 `Duração:` Abr 2024 - Jun 2024  
   📋 `Contrato:` PJ  
   🏬 `Agência ::` Foursys  
@@ -174,7 +174,7 @@
 
 
  ## 🏢 Evalio
-  💼 `Cargo:` **Desenvolvedor**
+  💼 `Cargo:` **Desenvolvedor**  
   📆 `Duração:` Abr 2023 – Nov 2023  
   📋 `Contrato:` Freelance  
   💻 `Tecnologias:` ES5 Javascript
@@ -193,7 +193,7 @@
 
 
  ## 🏢 TryEvo
-  💼 `Cargo:` **Criador**
+  💼 `Cargo:` **Criador**  
   📆 `Duração:` Jan 2023 – Mai 2024  
   📋 `Contrato:` Freelance  
   💻 `Tecnologias:` PostgreSQL, Node.js, Express, React, Material UI
@@ -218,7 +218,7 @@
 
 
  ## 🏢 Corfio
-  💼 `Cargo:` **Desenvolvedor**
+  💼 `Cargo:` **Desenvolvedor**  
   📆 `Duração:` Ago 2023 – Dez 2023  
   📋 `Contrato:` Freelance  
   💻 `Tecnologias:` Progress (OpenEdge Advanced Business Language, ABL), jQuery, CSS
@@ -293,7 +293,7 @@
 
  ## 🏢 GamersCard
   💼 `Cargo:` **Desenvolvedor de Interface**  
-  📆 `Duração:` ?? (sobrepõe-se a i9xp e IQVIA)
+  📆 `Duração:` ?? (sobrepõe-se a i9xp e IQVIA)  
   📋 `Contrato:` PJ  
   💻 `Tecnologias:` Angular, Typescript, CSS, SCSS
 
